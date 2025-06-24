@@ -7,5 +7,20 @@
 }   
 
 body{
-font-family: "Chkra Petch", sans-serif;
+font-family: "Chakra Petch", sans-serif;
+}
+
+h1,
+h2,
+h5{
+   color: var(--cor-secundaria);
+   font-weight: 700;
+}
+
+footer a{
+    color: var(--cor-principal);
+}
+
+footer a:hover{
+    color: var(--cor-destaque);
 }
